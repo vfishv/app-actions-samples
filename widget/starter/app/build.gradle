@@ -40,7 +40,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "PUT_YOUR_APPLICATION_ID_HERE"
+        applicationId "com.folderv.test"
         minSdkVersion 25
         targetSdkVersion 31
         versionCode 2
